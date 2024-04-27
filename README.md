@@ -15,7 +15,7 @@
   * Switching from high to low TV promotional budget reduces sales by $154 million (95\% CI \[-164 -145\])<br>
   * Radio has a positive coefficient of 2.97. i.e. Sales increases $3 million per $\$1$ million promotion in Radio.<br>
 <br>
-Therefore, clarify how much for high TV promotion and then calculate which is more efficient, either TV or Radio per $1 million investment
+Therefore, clarify how much for high TV promotion and then calculate which is more cost effecient, either TV or Radio per $1 million investment
 <br>
 
 
