@@ -15,6 +15,7 @@
 <br>
 ## Result<br>
 ![table_1](/assets/table_1.png)<br>
+  * After reviewing the data, TV and Radio are identified as having linear relation with Sales<br>
   * Switching from high to med TV promotional budget reduces sales by $75 million (95\% CI \[-82 -68\])<br>
   * Switching from high to low TV promotional budget reduces sales by $154 million (95\% CI \[-164 -145\])<br>
   * Radio has a positive coefficient of 2.97. i.e. Sales increases $3 million per $\$1$ million promotion in Radio.<br>
