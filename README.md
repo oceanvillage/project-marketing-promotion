@@ -7,9 +7,13 @@
 ## Objective<br>
   Advise stakeholders the cost effective marketing promotion<br>
 <br>
-## Result<br>
+## Verification of assumptions<br>
 ![graph 1](/assets/graph_1.png)![graph 2](/assets/graph_2.png)<br>
 ![graph 3](/assets/graph_3.png)<br>
+  All five assumptions are valid to use multiple linear regression<br> 
+  (Linearity, Independence, Normality, Constant variance, Multicolinearity)<br>
+<br>
+## Result<br>
 ![table_1](/assets/table_1.png)<br>
   * Switching from high to med TV promotional budget reduces sales by $75 million (95\% CI \[-82 -68\])<br>
   * Switching from high to low TV promotional budget reduces sales by $154 million (95\% CI \[-164 -145\])<br>
