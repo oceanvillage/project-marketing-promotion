@@ -18,8 +18,23 @@
 ## Verification of assumptions<br>
   Check if Radio and Social Media promotion expenses can be used for linear regression<br>
   <br>
-![graph 1](/assets/graph_1.png)![graph 2](/assets/graph_2.png)<br>
+![graph 1](/assets/graph_1.png)!<br>
+This graph shows 1)Linearity, 5)No multicolinearity<br>
+<br>
+As each marketing promotion is independent from one another, the independence assumption is valid<br>
+<br>
+Next, check the normality<br>
+![graph 2](/assets/graph_2.png)<br>
+<br>
+Normality is held based on the followings<br>
+<br>
+ - The histgram shows approximately normal distribution<br>
+ - Q-Q-plot is close to a straight line<br>
+<br>
+Finally, let's check constant variance<br>
 ![graph 3](/assets/graph_3.png)<br>
+Residuals are similarly distributed and the assumption is met<br>
+<br>
   All five assumptions are valid to use multiple linear regression<br> 
   (Linearity, Independence, Normality, Constant variance, Multicolinearity)<br>
 <br>
