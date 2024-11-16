@@ -32,8 +32,8 @@ Normality is held based on the followings<br>
  - Q-Q-plot is close to a straight line<br>
 <br>
 At last, let's check constant variance<br>
-<br>
-![graph 3](/assets/graph_3.png)<br>
+ <br>
+![graph 3](/assets/graph_3.png) <br>
 <br>
 Residuals are similarly distributed and the assumption is met<br>
 <br>
