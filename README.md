@@ -12,9 +12,12 @@
 ## Dataset<br>
  * The dataset has four parameters(TV,Radio,Social Media,Influencer) and Sales resulted<br>
  * TV and Influencer are categorical<br>
+ * Radio and Social Media are quantitative<br>
 <br>
 
 ## Verification of assumptions<br>
+  Check if Radio and Social Media promotion expenses can be used for linear regression<br>
+  <br>
 ![graph 1](/assets/graph_1.png)![graph 2](/assets/graph_2.png)<br>
 ![graph 3](/assets/graph_3.png)<br>
   All five assumptions are valid to use multiple linear regression<br> 
