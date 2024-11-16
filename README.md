@@ -19,7 +19,7 @@
   Check if Radio and Social Media promotion expenses can be used for linear regression<br>
   <br>
 ![graph 1](/assets/graph_1.png)!<br>
-This graph shows 1)Linearity, 5)No multicolinearity<br>
+This graph shows Linearity and No multicolinearity<br>
 <br>
 As each marketing promotion is independent from one another, the independence assumption is valid<br>
 <br>
