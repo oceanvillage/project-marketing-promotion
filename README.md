@@ -31,8 +31,10 @@ Normality is held based on the followings<br>
  - The histgram shows approximately normal distribution<br>
  - Q-Q-plot is close to a straight line<br>
 <br>
-Finally, let's check constant variance<br>
+At last, let's check constant variance<br>
+<br>
 ![graph 3](/assets/graph_3.png)<br>
+<br>
 Residuals are similarly distributed and the assumption is met<br>
 <br>
   All five assumptions are valid to use multiple linear regression<br> 
