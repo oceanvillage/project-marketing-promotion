@@ -25,8 +25,6 @@ As each marketing promotion is independent from one another, the independence as
 <br>
 Next, check the normality<br>
 ![graph 2](/assets/graph_2.png)<br>
-![graph 3](/assets/graph_3.png)<br>
-
 <br>
 Normality is held based on the followings<br>
 <br>
@@ -34,7 +32,7 @@ Normality is held based on the followings<br>
  - Q-Q-plot is close to a straight line<br>
 <br>
 At last, let's check constant variance<br>
- <br>
+.<br>
 ![graph 3](/assets/graph_3.png)<br>
 <br>
 Residuals are similarly distributed and the assumption is met<br>
