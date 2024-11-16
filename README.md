@@ -4,15 +4,23 @@
   Analyze a historical marketing promotion data to propose cost effective marketing promotion(s)<br>
   Conduct a multiple linear regression analysis to estimate sales from a combination of independent variables<br>
 <br>
+
 ## Objective<br>
   Advise stakeholders the cost effective marketing promotion<br>
 <br>
+
+## Dataset<br>
+ * The dataset has four parameters(TV,Radio,Social Media,Influencer) and Sales resulted<br>
+ * TV and Influencer are categorical<br>
+<br>
+
 ## Verification of assumptions<br>
 ![graph 1](/assets/graph_1.png)![graph 2](/assets/graph_2.png)<br>
 ![graph 3](/assets/graph_3.png)<br>
   All five assumptions are valid to use multiple linear regression<br> 
   (Linearity, Independence, Normality, Constant variance, Multicolinearity)<br>
 <br>
+
 ## Result<br>
 ![table_1](/assets/table_1.png)<br>
   * After reviewing the data, TV and Radio are identified as having linear relation with Sales<br>
