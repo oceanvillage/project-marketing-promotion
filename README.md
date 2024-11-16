@@ -44,9 +44,11 @@ Residuals are similarly distributed and the assumption is met<br>
 <br>
 
 ## Result<br>
- * Used Ordinary Least Squares(OLS) model to predict sales<br>
- * Excluded Influencer and Social_Media parameters because P values were higher than 0.05<br>
+Used Ordinary Least Squares(OLS) model to predict sales<br>
+Excluded Influencer and Social_Media parameters because P values were higher than 0.05<br>
  <br>
+<br>
+
 ![table_1](/assets/table_1.png)<br>
   * After reviewing the data, TV and Radio are identified as having linear relation with Sales<br>
   * Switching from high to med TV promotional budget reduces sales by $75 million (95\% CI \[-82 -68\])<br>
